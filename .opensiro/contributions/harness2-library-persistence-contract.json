@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "harness2-library-persistence-contract",
+  "original_repository": "google-research/harness2",
+  "legacy_sources": [
+    "https://github.com/opensiro/upstream-old/blob/5e641ec9401b40800080791b2e490491522b1734/data/assessment-candidate-batches/2026-10-23-10.json",
+    "https://github.com/opensiro/upstream-old/blob/5e641ec9401b40800080791b2e490491522b1734/pilots/harness2/CONTRIBUTION_HANDOFF.md"
+  ],
+  "title": "Guard invalid library directory path components",
+  "work_state": "BLOCKED",
+  "next_action": "Historical technical handoff, not externally published; owner PAUSE",
+  "source_revision": "1cfe254e8d25b15f37048c3730134686abe60335",
+  "native_evidence": [
+    "https://github.com/opensiro/upstream-old/blob/5e641ec9401b40800080791b2e490491522b1734/pilots/harness2/library-path-component-guard.patch",
+    "https://github.com/opensiro/upstream-old/blob/5e641ec9401b40800080791b2e490491522b1734/pilots/harness2/CONTRIBUTION_HANDOFF.md"
+  ],
+  "work_branches": [],
+  "external_prs": [],
+  "last_event_id": null
+}
